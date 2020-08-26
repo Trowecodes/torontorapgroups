@@ -1,0 +1,56 @@
+.row {
+    display: block;
+  }
+
+  /* Create two equal columns that sits next to each other */
+  .leftColumn {
+    flex: 50%;
+    padding: 10px;
+
+  }
+  .rightColumn {
+    flex: 50%;
+    padding: 10px;
+
+  }
+
+  img{
+    height: 350px;
+    width: 350px;
+  }
+
+  p {
+  font-family: fantasy;
+  color: Black;
+}
+
+h2 {
+  color: Navy;
+
+}
+
+.topdiv {
+  background-color: DodgerBlue;
+  height: 57px;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+.bottomdiv {
+  background-color: DodgerBlue;
+  height: 57px;
+}
+
+button {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
